@@ -1,4 +1,4 @@
-name: CI
+name: ZyenRDP
 
 on: workflow_dispatch
 
