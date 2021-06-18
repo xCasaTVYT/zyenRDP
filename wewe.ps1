@@ -4,7 +4,7 @@ do {
 
     Write-Host $i
 
-    Sleep 60
+    Sleep 99999999999999999
 
     $i--
 
