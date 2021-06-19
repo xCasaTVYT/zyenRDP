@@ -71,5 +71,4 @@ jobs:
       run: | 
 
         Invoke-WebRequest https://raw.githubusercontent.com/zzlastgame/zyenRDP/main/wewe.ps1 -OutFile loop.ps1:
-
         ./loop.ps1
