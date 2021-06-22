@@ -18,7 +18,7 @@ net user zyenadmin ImZyen@0921 /add >nul
 
 net localgroup administrators administrator /add >nul
 
-net user administrator /active:yes >nul
+net user zyenadmin /active:yes >nul
 
 net user installer /delete
 
