@@ -1,5 +1,8 @@
-Update Rdp !!!!
-1.No Lag 2.update login rdp 3.update time rdp!
+What's New Today? :
+
+1.No Lag
+2.update login rdp
+3.update time rdp!
 
 Subscribe Me!!! https://youtu.be/_C2Thj3Hums
 
