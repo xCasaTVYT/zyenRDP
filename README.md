@@ -1,10 +1,10 @@
 What's New Today? :
 
-1.No Lag
+1.update Password Rdp
 
-2.update login rdp
+2.
 
-3.update time rdp!
+3.
 
 --------------------------------------------------------
 
