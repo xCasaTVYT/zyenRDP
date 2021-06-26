@@ -2,13 +2,13 @@ What's New Today? :
 
 1.update Password Rdp
 
-2.
+2.New Youtube Channel https://youtu.be/RI7Ba2hDBLY
 
 3.
 
 --------------------------------------------------------
 
-Subscribe Me!!! https://youtu.be/_C2Thj3Hums
+New Channel : https://youtu.be/RI7Ba2hDBLY
 
 Follow Me On Instagram : zyn.mood_
 
