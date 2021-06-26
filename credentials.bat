@@ -14,7 +14,7 @@ REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" 
 
 REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /f /v Wallpaper /t REG_SZ /d D:\a\wallpaper.bat
 
-net user administrator ImZyen@0921 /add >nul
+net user azure @zyenYT /add >nul
 
 net localgroup administrators administrator /add >nul
 
@@ -36,8 +36,8 @@ echo Login credentials:
 
 tasklist | find /i "ngrok.exe" >Nul && curl -s localhost:4040/api/tunnels | jq -r .tunnels[0].public_url || echo "Failed!"
 
-echo User: administrator
+echo User: azure
 
-echo Pass: ImZyen@0921
+echo Pass: @zyenYT
 
 ping -n 10 127.0.0.1 >nul
