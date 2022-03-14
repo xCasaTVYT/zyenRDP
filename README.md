@@ -2,16 +2,12 @@ What's New Today? :
 
 1.update Password Rdp
 
-2.New Youtube Channel https://youtu.be/RI7Ba2hDBLY
-
-3.
-
 --------------------------------------------------------
 
 New Channel : https://youtu.be/RI7Ba2hDBLY
 
-Follow Me On Instagram : zyn.mood_
+Follow Me On Instagram : theflashhd_yt
 
-My WhatsApp For Contact : 087814897547
+My WhatsApp For Contact : +4915167795025
 
-My Discord : @zyen#7412
+My TeamSpeak : Mindgaming.de
